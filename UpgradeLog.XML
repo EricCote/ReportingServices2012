@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AdventureWorks 2008R2">
+</Property><Property Name="Solution File" Value="C:\Work_DesktopComputers\UA Team\BI\Reporting Services\Report Samples_CodePLex\Samples\Report Samples\AdventureWorks 2012 Sample Reports\AdventureWorks 2008R2.sln">
+</Property><Property Name="Date" Value="Thursday, August 22, 2013">
+</Property><Property Name="Time" Value="15:01 PM">
+</Property></Properties><Event ErrorLevel="2" Project="AdventureWorks 2008R2" Source="AdventureWorks 2008R2\AdventureWorks 2008R2.rptproj" Description="Could not find a part of the path 'C:\Work_DesktopComputers\UA Team\BI\Reporting Services\Report Samples_CodePLex\Samples\Report Samples\AdventureWorks 2012 Sample Reports\AdventureWorks 2008R2\AdventureWorks 2008R2.rptproj'.">
+</Event><Event ErrorLevel="0" Project="" Source="AdventureWorks 2008R2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AdventureWorks 2008R2.sln" Description="Converted">
+</Event></UpgradeLog>
